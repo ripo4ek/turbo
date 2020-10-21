@@ -22,8 +22,11 @@
             ]]>
         </turbo:adNetwork>
         <yandex:related type="infinity">
+            <link url="http://www.example.com/other-page1.html">Текст ссылки</link>
+            <link url="http://www.example.com/other-page2.html">Текст ссылки</link>
         </yandex:related>
         <item turbo="true">
+            <link>http://www.example.com/page1.html</link>
             <author>Иван Иванов</author>
             <category>Технологии</category>
             <pubDate>Sun, 29 Sep 2002 19:59:01 +0300</pubDate>
