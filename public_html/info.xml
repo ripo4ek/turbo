@@ -21,5 +21,37 @@ xmlns:turbo="http://turbo.yandex.ru" version="2.0">
 				]]>
 			</turbo:content>
 		</item>
+		<item turbo="true">
+			<link>https://testturbo.herokuapp.com/</link>
+			<turbo:content>
+				<![CDATA[
+					<header>
+						<h1>Рандомный тестовый заголовок</h1>
+						<menu>
+							<a href="https://testturbo.herokuapp.com/">Ссылка 1</a>
+							<a href="https://testturbo.herokuapp.com/">Ссылка 2</a>
+							<a href="https://testturbo.herokuapp.com/">Ссылка 3</a>
+						</menu>
+					</header>
+					<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.</p>
+				]]>
+			</turbo:content>
+		</item>
+		<item turbo="true">
+			<link>https://testturbo.herokuapp.com/</link>
+			<turbo:content>
+				<![CDATA[
+					<header>
+						<h1>Рандомный тестовый заголовок</h1>
+						<menu>
+							<a href="https://testturbo.herokuapp.com/">Ссылка 1</a>
+							<a href="https://testturbo.herokuapp.com/">Ссылка 2</a>
+							<a href="https://testturbo.herokuapp.com/">Ссылка 3</a>
+						</menu>
+					</header>
+					<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.</p>
+				]]>
+			</turbo:content>
+		</item>
 	</channel>
 </rss>
