@@ -1,49 +1,26 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<rss version="2.0">
-<channel>
-<title>Яндекс.Новости: Москва</title>
-<link>https://testturbo.herokuapp.com/</link>
-<description>Первая в России служба автоматической обработки и систематизации новостей. Сообщения ведущих российских и мировых СМИ. Обновление в режиме реального времени 24 часа в сутки.</description>
-<image>
-<url>https://company.yandex.ru/i/50x23.gif</url>
-<link>https://testturbo.herokuapp.com/</link>
-<title>Яндекс.Новости: Москва</title>
-</image>
-<lastBuildDate>22 Oct 2020 12:03:18 +0000</lastBuildDate>
-<item turbo="true">
-<title>«Ленком» Марка Захарова с сегодняшнего дня приостановил работу на две недели</title>
-<link>https://testturbo.herokuapp.com/</link>
-<guid>https://testturbo.herokuapp.com/</guid>
-<description>Отменены все спектакли из-за частых случаев заболевания у сотрудников.</description>
-<pubDate>22 Oct 2020 10:33:15 +0000</pubDate>
-</item>
-<item turbo="true">
-<title>ЖК в Западном Дегунине передадут под заселение по программе реновации</title>
-<link>https://testturbo.herokuapp.com/</link>
-<guid>https://testturbo.herokuapp.com/</guid>
-<description>Жилой комплекс в районе Западное Дегунино передадут под заселение по программе реновации в 2021 году. Об этом сообщает Агентство &amp;quot;Москва&amp;quot;.</description>
-<pubDate>22 Oct 2020 08:33:00 +0000</pubDate>
-</item>
-<item turbo="true">
-<title>Движение поездов на МЦК изменится 24 октября</title>
-<link>https://testturbo.herokuapp.com/</link>
-<guid>https://testturbo.herokuapp.com/</guid>
-<description>Изменения связаны со строительством участков Северно-Восточной хорды, сообщает пресс-служба Дептранса. Чтобы проехать к закрытым остановкам, следует воспользоваться станцией Стрешнево, а чтобы уехать с них – станцией Лихоборы. Там можно пересесть на поезд, следующий в обратном направлении.</description>
-<pubDate>22 Oct 2020 08:22:00 +0000</pubDate>
-</item>
-<item turbo="true">
-<title>В Москве участок Филевской линии метро закроют в выходные</title>
-<link>https://testturbo.herokuapp.com/</link>
-<guid>https://testturbo.herokuapp.com/</guid>
-<description>Участок Филевской линии Московского метрополитена закроют 24 и 25 октября — поезда не будут курсировать от «Кунцевской» до «Пионерской». Об этом в четверг, 22 октября, сообщается на официальном сайте мэра Москвы.</description>
-<pubDate>22 Oct 2020 05:48:22 +0000</pubDate>
-</item>
-<item turbo="true">
-<title>В Москве от коронавируса вылечились еще 2519 пациентов</title>
-<link>https://testturbo.herokuapp.com/</link>
-<guid>https://testturbo.herokuapp.com/</guid>
-<description>За последние сутки в столице от коронавируса вылечились еще 2519 пациентов после прохождения соответствующего лечения, сообщает московский оперштаб.</description>
-<pubDate>22 Oct 2020 06:12:00 +0000</pubDate>
-</item>
-</channel>
+<rss xmlns:yandex="http://news.yandex.ru" xmlns:media="http://search.yahoo.com/mrss/" 
+xmlns:turbo="http://turbo.yandex.ru" version="2.0">
+	<channel>
+		<title>Snipp.ru</title>
+		<link>https://testturbo.herokuapp.com/</link>
+		<description/>
+		<language>ru</language>
+		<item turbo="true">
+			<link>https://testturbo.herokuapp.com/</link>
+			<turbo:content>
+				<![CDATA[
+					<header>
+						<h1>Релевантный поиск c помощью LIKE</h1>
+						<menu>
+							<a href="https://testturbo.herokuapp.com/">О сайте</a>
+							<a href="https://testturbo.herokuapp.com/">Статьи</a>
+							<a href="https://testturbo.herokuapp.com/">Новости</a>
+						</menu>
+					</header>
+					<p>Например, на сайте статей есть поиск, он ищет ключевое слово по полям: 
+					название статьи, title и основной текст. SQL запрос получается следующим:</p>
+				]]>
+			</turbo:content>
+		</item>
+	</channel>
 </rss>
