@@ -1,7 +1,7 @@
 <rss xmlns:yandex="http://news.yandex.ru" xmlns:media="http://search.yahoo.com/mrss/" 
 xmlns:turbo="http://turbo.yandex.ru" version="2.0">
 	<channel>
-		<title>Snipp.ru</title>
+		<title>TestTurbo</title>
 		<link>https://testturbo.herokuapp.com/</link>
 		<description/>
 		<language>ru</language>
@@ -10,15 +10,14 @@ xmlns:turbo="http://turbo.yandex.ru" version="2.0">
 			<turbo:content>
 				<![CDATA[
 					<header>
-						<h1>Релевантный поиск c помощью LIKE</h1>
+						<h1>Рандомный тестовый заголовок</h1>
 						<menu>
-							<a href="https://testturbo.herokuapp.com/">О сайте</a>
-							<a href="https://testturbo.herokuapp.com/">Статьи</a>
-							<a href="https://testturbo.herokuapp.com/">Новости</a>
+							<a href="https://testturbo.herokuapp.com/">Ссылка 1</a>
+							<a href="https://testturbo.herokuapp.com/">Ссылка 2</a>
+							<a href="https://testturbo.herokuapp.com/">Ссылка 3</a>
 						</menu>
 					</header>
-					<p>Например, на сайте статей есть поиск, он ищет ключевое слово по полям: 
-					название статьи, title и основной текст. SQL запрос получается следующим:</p>
+					<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.</p>
 				]]>
 			</turbo:content>
 		</item>
