@@ -2,160 +2,54 @@
 <rss version="2.0">
 <channel>
 <title>Яндекс.Новости: Москва</title>
-<link>https://news.yandex.ru/Moscow/index.html?from=rss</link>
+<link>https://testturbo.herokuapp.com/</link>
 <description>Первая в России служба автоматической обработки и систематизации новостей. Сообщения ведущих российских и мировых СМИ. Обновление в режиме реального времени 24 часа в сутки.</description>
 <image>
 <url>https://company.yandex.ru/i/50x23.gif</url>
-<link>https://news.yandex.ru/Moscow/index.html?from=rss</link>
+<link>https://testturbo.herokuapp.com/</link>
 <title>Яндекс.Новости: Москва</title>
 </image>
 <lastBuildDate>22 Oct 2020 12:03:18 +0000</lastBuildDate>
-<item>
+<item turbo="true">
 <title>«Ленком» Марка Захарова с сегодняшнего дня приостановил работу на две недели</title>
-<link>https://yandex.ru/news/story/Lenkom_Marka_Zakharova_s_segodnyashnego_dnya_priostanovil_rabotu_na_dve_nedeli--8f331aa307ea2bba887738a933be2a81?lang=ru&amp;from=rss&amp;wan=1&amp;stid=Njs39lHKw76QVLAT7nJk</link>
-<guid>https://yandex.ru/news/story/Lenkom_Marka_Zakharova_s_segodnyashnego_dnya_priostanovil_rabotu_na_dve_nedeli--8f331aa307ea2bba887738a933be2a81?lang=ru&amp;from=rss&amp;wan=1&amp;stid=Njs39lHKw76QVLAT7nJk</guid>
+<link>https://testturbo.herokuapp.com/</link>
+<guid>https://testturbo.herokuapp.com/</guid>
 <description>Отменены все спектакли из-за частых случаев заболевания у сотрудников.</description>
 <pubDate>22 Oct 2020 10:33:15 +0000</pubDate>
 </item>
-<item>
+<item turbo="true">
 <title>Светильник-«турбину» установят на станции «Бачуринская» Коммунарской линии метро Москвы</title>
-<link>https://yandex.ru/news/story/Svetilnik-turbinu_ustanovyat_na_stancii_Bachurinskaya_Kommunarskoj_linii_metro_Moskvy--034bb0753f5804a3281e616037a75f37?lang=ru&amp;from=rss&amp;wan=1&amp;stid=iTPfyA-l_FdzvZIX1grj</link>
-<guid>https://yandex.ru/news/story/Svetilnik-turbinu_ustanovyat_na_stancii_Bachurinskaya_Kommunarskoj_linii_metro_Moskvy--034bb0753f5804a3281e616037a75f37?lang=ru&amp;from=rss&amp;wan=1&amp;stid=iTPfyA-l_FdzvZIX1grj</guid>
-<description>Станция &amp;quot;Бачуринская&amp;quot; (рабочее название &amp;quot;Коммунарка-2&amp;quot;) расположена на территории административно-делового центра в Коммунарке, пассажирам из вестибюлей можно будет выйти к префектуре ТиНАО и к улице Александры Монаховой. На Коммунарской линии метро разместят 16 станций.</description>
+<link>https://testturbo.herokuapp.com/</link>
+<guid>https://testturbo.herokuapp.com/</description>
 <pubDate>22 Oct 2020 09:43:49 +0000</pubDate>
 </item>
-<item>
+<item turbo="true">
 <title>ЖК в Западном Дегунине передадут под заселение по программе реновации</title>
-<link>https://yandex.ru/news/story/ZHK_v_Zapadnom_Degunine_peredadut_pod_zaselenie_po_programme_renovacii--ebef74a06289267362d45178c9e3e3ac?lang=ru&amp;from=rss&amp;wan=1&amp;stid=MCLGFclp3hRPlsw3qS4H</link>
-<guid>https://yandex.ru/news/story/ZHK_v_Zapadnom_Degunine_peredadut_pod_zaselenie_po_programme_renovacii--ebef74a06289267362d45178c9e3e3ac?lang=ru&amp;from=rss&amp;wan=1&amp;stid=MCLGFclp3hRPlsw3qS4H</guid>
+<link>https://testturbo.herokuapp.com/</link>
+<guid>https://testturbo.herokuapp.com/</guid>
 <description>Жилой комплекс в районе Западное Дегунино передадут под заселение по программе реновации в 2021 году. Об этом сообщает Агентство &amp;quot;Москва&amp;quot;.</description>
 <pubDate>22 Oct 2020 08:33:00 +0000</pubDate>
 </item>
-<item>
+<item turbo="true">
 <title>Движение поездов на МЦК изменится 24 октября</title>
-<link>https://yandex.ru/news/story/Dvizhenie_poezdov_na_MCK_izmenitsya_24_oktyabrya--8629deaeefc0eb2bd2766dba31b06cb8?lang=ru&amp;from=rss&amp;wan=1&amp;stid=V62kHkfGZq8gQ1pzKZFS</link>
-<guid>https://yandex.ru/news/story/Dvizhenie_poezdov_na_MCK_izmenitsya_24_oktyabrya--8629deaeefc0eb2bd2766dba31b06cb8?lang=ru&amp;from=rss&amp;wan=1&amp;stid=V62kHkfGZq8gQ1pzKZFS</guid>
+<link>https://testturbo.herokuapp.com/</link>
+<guid>https://testturbo.herokuapp.com/</guid>
 <description>Изменения связаны со строительством участков Северно-Восточной хорды, сообщает пресс-служба Дептранса. Чтобы проехать к закрытым остановкам, следует воспользоваться станцией Стрешнево, а чтобы уехать с них – станцией Лихоборы. Там можно пересесть на поезд, следующий в обратном направлении.</description>
 <pubDate>22 Oct 2020 08:22:00 +0000</pubDate>
 </item>
-<item>
+<item turbo="true">
 <title>В Москве участок Филевской линии метро закроют в выходные</title>
-<link>https://yandex.ru/news/story/V_Moskve_uchastok_Filevskoj_linii_metro_zakroyut_v_vykhodnye--9c75f6c72267fe93f0660b18ec3c33f4?lang=ru&amp;from=rss&amp;wan=1&amp;stid=Ipj_srcxg8efe_M8hBCR</link>
-<guid>https://yandex.ru/news/story/V_Moskve_uchastok_Filevskoj_linii_metro_zakroyut_v_vykhodnye--9c75f6c72267fe93f0660b18ec3c33f4?lang=ru&amp;from=rss&amp;wan=1&amp;stid=Ipj_srcxg8efe_M8hBCR</guid>
+<link>https://testturbo.herokuapp.com/</link>
+<guid>https://testturbo.herokuapp.com/</guid>
 <description>Участок Филевской линии Московского метрополитена закроют 24 и 25 октября — поезда не будут курсировать от «Кунцевской» до «Пионерской». Об этом в четверг, 22 октября, сообщается на официальном сайте мэра Москвы.</description>
 <pubDate>22 Oct 2020 05:48:22 +0000</pubDate>
 </item>
-<item>
+<item turbo="true">
 <title>В Москве от коронавируса вылечились еще 2519 пациентов</title>
-<link>https://yandex.ru/news/story/V_Moskve_ot_koronavirusa_vylechilis_eshhe_2519_pacientov--b87f0c8a5dec777681f3e974851735ac?lang=ru&amp;from=rss&amp;wan=1&amp;stid=QmVgLXsdSLYiJ4z7dHda</link>
-<guid>https://yandex.ru/news/story/V_Moskve_ot_koronavirusa_vylechilis_eshhe_2519_pacientov--b87f0c8a5dec777681f3e974851735ac?lang=ru&amp;from=rss&amp;wan=1&amp;stid=QmVgLXsdSLYiJ4z7dHda</guid>
+<link>https://testturbo.herokuapp.com/</link>
+<guid>https://testturbo.herokuapp.com/</guid>
 <description>За последние сутки в столице от коронавируса вылечились еще 2519 пациентов после прохождения соответствующего лечения, сообщает московский оперштаб.</description>
 <pubDate>22 Oct 2020 06:12:00 +0000</pubDate>
-</item>
-<item>
-<title>Сергунина: более 180 некоммерческих организаций получат гранты мэра Москвы</title>
-<link>https://yandex.ru/news/story/Sergunina_bolee_180_nekommercheskikh_organizacij_poluchat_granty_mehra_Moskvy--8ec766f8c7386099e6cb377f05761646?lang=ru&amp;from=rss&amp;wan=1&amp;stid=U1NKiKshFSLCvWggakAN</link>
-<guid>https://yandex.ru/news/story/Sergunina_bolee_180_nekommercheskikh_organizacij_poluchat_granty_mehra_Moskvy--8ec766f8c7386099e6cb377f05761646?lang=ru&amp;from=rss&amp;wan=1&amp;stid=U1NKiKshFSLCvWggakAN</guid>
-<description>Наталья Сергунина подвела итоги прошедшего в столице конкурса грантов мэра Москвы для НКО. По словам вице-мэра Москвы, лауреатами конкурса в текущем году стали 183 некоммерческие организации. Полный список победителей опубликован на портале «Душевная Москва».</description>
-<pubDate>22 Oct 2020 07:10:06 +0000</pubDate>
-</item>
-<item>
-<title>В Москве при больницах открыли госпитали-родеры для пациентов с COVID-19</title>
-<link>https://yandex.ru/news/story/V_Moskve_pri_bolnicakh_otkryli_gospitali-rodery_dlya_pacientov_s_COVID-19--1b061beda13ddefa9bc558e6c50d6654?lang=ru&amp;from=rss&amp;wan=1&amp;stid=6UiGiC_AfSDaeRyRLBSE</link>
-<guid>https://yandex.ru/news/story/V_Moskve_pri_bolnicakh_otkryli_gospitali-rodery_dlya_pacientov_s_COVID-19--1b061beda13ddefa9bc558e6c50d6654?lang=ru&amp;from=rss&amp;wan=1&amp;stid=6UiGiC_AfSDaeRyRLBSE</guid>
-<description>В настоящее время в столице открыто почти 50 временных госпиталей для пациентов с COVID-19 на 3 тыс. коек на территории 16 городских больниц.</description>
-<pubDate>22 Oct 2020 07:30:50 +0000</pubDate>
-</item>
-<item>
-<title>В Москве завершили строительство нового здания автовокзала «Щелковский»</title>
-<link>https://yandex.ru/news/story/V_Moskve_zavershili_stroitelstvo_novogo_zdaniya_avtovokzala_SHHelkovskij--7e9a21726db9e5f4e2c8d434c29b8560?lang=ru&amp;from=rss&amp;wan=1&amp;stid=pXQDrCLpAU1mCbzocoVt</link>
-<guid>https://yandex.ru/news/story/V_Moskve_zavershili_stroitelstvo_novogo_zdaniya_avtovokzala_SHHelkovskij--7e9a21726db9e5f4e2c8d434c29b8560?lang=ru&amp;from=rss&amp;wan=1&amp;stid=pXQDrCLpAU1mCbzocoVt</guid>
-<description>Центр возвели на месте Щелковского автовокзала. Здание площадью 157 тыс. кв. м имеет шесть наземных, пять подземных этажей и один технический. Новое здание сохранит функции автовокзала, при этом его пропускные возможности увеличатся.</description>
-<pubDate>22 Oct 2020 06:39:22 +0000</pubDate>
-</item>
-<item>
-<title>В Москве началась реставрация храма XVIII века</title>
-<link>https://yandex.ru/news/story/V_Moskve_nachalas_restavraciya_khrama_XVIII_veka--484f1b64df32c74e391e5f3f18c7e236?lang=ru&amp;from=rss&amp;wan=1&amp;stid=wHxPNkdzsZIE5bhwLB0x</link>
-<guid>https://yandex.ru/news/story/V_Moskve_nachalas_restavraciya_khrama_XVIII_veka--484f1b64df32c74e391e5f3f18c7e236?lang=ru&amp;from=rss&amp;wan=1&amp;stid=wHxPNkdzsZIE5bhwLB0x</guid>
-<description>Начата реставрация московского храма Ризоположения Пресвятой Богородицы, обладающего статусом объекта культурного наследия, сообщается на сайте мэра российской столицы.</description>
-<pubDate>22 Oct 2020 05:01:16 +0000</pubDate>
-</item>
-<item>
-<title>Почти 60 тысяч часов онлайн-занятий провели преподаватели «Московского долголетия» с марта</title>
-<link>https://yandex.ru/news/story/Pochti_60_tysyach_chasov_onlajn-zanyatij_proveli_prepodavateli_Moskovskogo_dolgoletiya_s_marta--0b32959594295a8d2bc4010b3c4eb813?lang=ru&amp;from=rss&amp;wan=1&amp;stid=jpe9dUqie16AyS_QqPz5</link>
-<guid>https://yandex.ru/news/story/Pochti_60_tysyach_chasov_onlajn-zanyatij_proveli_prepodavateli_Moskovskogo_dolgoletiya_s_marta--0b32959594295a8d2bc4010b3c4eb813?lang=ru&amp;from=rss&amp;wan=1&amp;stid=jpe9dUqie16AyS_QqPz5</guid>
-<description>С марта 2020 года преподаватели проекта «Московское долголетие» провели почти 60 тысяч часов онлайн-занятий, сообщила Анастасия Ракова, заместитель Мэра Москвы по вопросам социального развития.</description>
-<pubDate>22 Oct 2020 04:02:00 +0000</pubDate>
-</item>
-<item>
-<title>В МЧС предупредили о сильном тумане в Москве утром 22 октября</title>
-<link>https://yandex.ru/news/story/V_MCHS_predupredili_o_silnom_tumane_v_Moskve_utrom_22_oktyabrya--e0f33835c6c3367a08aedc250a432b90?lang=ru&amp;from=rss&amp;wan=1&amp;stid=_X1NcOfKFFAhrnVFzDhP</link>
-<guid>https://yandex.ru/news/story/V_MCHS_predupredili_o_silnom_tumane_v_Moskve_utrom_22_oktyabrya--e0f33835c6c3367a08aedc250a432b90?lang=ru&amp;from=rss&amp;wan=1&amp;stid=_X1NcOfKFFAhrnVFzDhP</guid>
-<description>&amp;quot;По прогнозам синоптиков Росгидромета, в ближайшие 1-3 часа с сохранением утром 22 октября местами в Москве ожидается туман с видимостью 300-800 метров&amp;quot;, - говорится в сообщении на сайте ведомства.</description>
-<pubDate>22 Oct 2020 01:49:29 +0000</pubDate>
-</item>
-<item>
-<title>Столичные учителя 21 октября провели почти 150 тыс. уроков в МЭШ</title>
-<link>https://yandex.ru/news/story/Stolichnye_uchitelya_21_oktyabrya_proveli_pochti_150_tys._urokov_v_MEHSH--20b5372adfbc2ea3167b9410b345e08b?lang=ru&amp;from=rss&amp;wan=1&amp;stid=WxPT0ZY73VegBljdyhKe</link>
-<guid>https://yandex.ru/news/story/Stolichnye_uchitelya_21_oktyabrya_proveli_pochti_150_tys._urokov_v_MEHSH--20b5372adfbc2ea3167b9410b345e08b?lang=ru&amp;from=rss&amp;wan=1&amp;stid=WxPT0ZY73VegBljdyhKe</guid>
-<description>В среду, 21 октября, преподаватели в столице провели порядка 150 тысяч уроков в Московской электронной школе (МЭШ). Это 93% от общего числа всех занятий, указали в Департаменте образования и науки.</description>
-<pubDate>21 Oct 2020 17:07:00 +0000</pubDate>
-</item>
-<item>
-<title>Десять лет назад Сергей Собянин вступил в должность мэра столицы</title>
-<link>https://yandex.ru/news/story/Desyat_let_nazad_Sergej_Sobyanin_vstupil_v_dolzhnost_mehra_stolicy--675332da17e9d6a14f796543f64aa6bd?lang=ru&amp;from=rss&amp;wan=1&amp;stid=aZioJb6vGSrwR7JwZ07s</link>
-<guid>https://yandex.ru/news/story/Desyat_let_nazad_Sergej_Sobyanin_vstupil_v_dolzhnost_mehra_stolicy--675332da17e9d6a14f796543f64aa6bd?lang=ru&amp;from=rss&amp;wan=1&amp;stid=aZioJb6vGSrwR7JwZ07s</guid>
-<description>Ровно десять лет назад Московская городская дума наделила Сергея Собянина полномочиями мэра Москвы. На этой должности он сменил Юрия Лужкова.</description>
-<pubDate>21 Oct 2020 18:38:17 +0000</pubDate>
-</item>
-<item>
-<title>Незаконно возведенное летнее кафе демонтировали в центре Москвы</title>
-<link>https://yandex.ru/news/story/Nezakonno_vozvedennoe_letnee_kafe_demontirovali_v_centre_Moskvy--f777aba8815d592fc2623432a5742cd8?lang=ru&amp;from=rss&amp;wan=1&amp;stid=eoqPAQ874OkYnQpkVMG4</link>
-<guid>https://yandex.ru/news/story/Nezakonno_vozvedennoe_letnee_kafe_demontirovali_v_centre_Moskvy--f777aba8815d592fc2623432a5742cd8?lang=ru&amp;from=rss&amp;wan=1&amp;stid=eoqPAQ874OkYnQpkVMG4</guid>
-<description>Незаконно возведенное летнее кафе демонтировали в центре Москвы. Об этом в среду, 21 октября, сообщили в пресс-службе Государственной инспекции по контролю за использованием объектов недвижимости столицы. Объект располагался по адресу улица Арбат, дом 13.</description>
-<pubDate>21 Oct 2020 18:37:08 +0000</pubDate>
-</item>
-<item>
-<title>В Москве начали благоустройство территорий 11 поликлиник, где завершается капремонт</title>
-<link>https://yandex.ru/news/story/V_Moskve_nachali_blagoustrojstvo_territorij_11_poliklinik_gde_zavershaetsya_kapremont--0744e0882ed5c013add58be43432c4e8?lang=ru&amp;from=rss&amp;wan=1&amp;stid=6HdPWHelAdB-i3ZZWM9C</link>
-<guid>https://yandex.ru/news/story/V_Moskve_nachali_blagoustrojstvo_territorij_11_poliklinik_gde_zavershaetsya_kapremont--0744e0882ed5c013add58be43432c4e8?lang=ru&amp;from=rss&amp;wan=1&amp;stid=6HdPWHelAdB-i3ZZWM9C</guid>
-<description>Работы по благоустройству территорий 11 столичных поликлиник, в которых завершается капремонт, будут выполнены по единому стандарту, сообщил ТАСС в среду заместитель мэра Москвы Петр Бирюков.</description>
-<pubDate>21 Oct 2020 04:08:16 +0000</pubDate>
-</item>
-<item>
-<title>В Крыму за сутки умер один пациент c COVID-19</title>
-<link>https://yandex.ru/news/story/V_Krymu_za_sutki_umer_odin_pacient_c_COVID-19--bb2a9e45d8f0e06a28551335481dd958?lang=ru&amp;from=rss&amp;wan=1&amp;stid=qNd-</link>
-<guid>https://yandex.ru/news/story/V_Krymu_za_sutki_umer_odin_pacient_c_COVID-19--bb2a9e45d8f0e06a28551335481dd958?lang=ru&amp;from=rss&amp;wan=1&amp;stid=qNd-</guid>
-<description>&amp;quot;Умерших (подтвержденных COVID-19) - 113 (+ 1)&amp;quot;, - указано на сайте министерства в сегодняшней информации о ситуации с коронавирусной инфекцией. За минувшие сутки в Крыму подтвердили 163 новых случаев коронавирусной инфекции.</description>
-<pubDate>20 Oct 2020 07:36:39 +0000</pubDate>
-</item>
-<item>
-<title>ПИК приостановил вещание камер после жалоб жильцов на наблюдение за ними</title>
-<link>https://yandex.ru/news/story/PIK_priostanovil_veshhanie_kamer_posle_zhalob_zhilcov_na_nablyudenie_za_nimi--3a3d0156adda3235dd456a593c144379?lang=ru&amp;from=rss&amp;wan=1&amp;stid=V9yC7PbrWeg9gnh-Cvs_</link>
-<guid>https://yandex.ru/news/story/PIK_priostanovil_veshhanie_kamer_posle_zhalob_zhilcov_na_nablyudenie_za_nimi--3a3d0156adda3235dd456a593c144379?lang=ru&amp;from=rss&amp;wan=1&amp;stid=V9yC7PbrWeg9gnh-Cvs_</guid>
-<description>Ранее СМИ сообщили, что жители ЖК &amp;quot;Жемчужина Зеленограда&amp;quot; пожаловались в социальных сетях на трансляцию с уличных видеокамер изображений с их квартирами. Жители обнаружили видео на сайте &amp;quot;ПИК&amp;quot; в открытом доступе, позже оно было удалено.</description>
-<pubDate>21 Oct 2020 14:51:40 +0000</pubDate>
-</item>
-<item>
-<title>В Москве СК помог ветерану вернуть 1,4 млн рублей, вложенных в инвесткомпанию</title>
-<link>https://yandex.ru/news/story/V_Moskve_SK_pomog_veteranu_vernut_14_mln_rublej_vlozhennykh_v_investkompaniyu--80a535252337f06ea73ce9003e67e33b?lang=ru&amp;from=rss&amp;wan=1&amp;stid=hlx4bWHLVyOyi0udWZjp</link>
-<guid>https://yandex.ru/news/story/V_Moskve_SK_pomog_veteranu_vernut_14_mln_rublej_vlozhennykh_v_investkompaniyu--80a535252337f06ea73ce9003e67e33b?lang=ru&amp;from=rss&amp;wan=1&amp;stid=hlx4bWHLVyOyi0udWZjp</guid>
-<description>Московские следователи помогли 98-летнему ветерану Великой Отечественной войны Евсею Рудинскому вернуть 1,4 млн рублей, вложенных в инвестиционную компанию. Об этом ТАСС сообщила в среду представитель Главного следственного управления СК по Москве Юлия Иванова.</description>
-<pubDate>21 Oct 2020 18:20:33 +0000</pubDate>
-</item>
-<item>
-<title>Поступило сообщение о «минировании» Государственного Кремлевского дворца</title>
-<link>https://yandex.ru/news/story/Postupilo_soobshhenie_o_minirovanii_Gosudarstvennogo_Kremlevskogo_dvorca--f5472478c56ff2a292537da418ab7a62?lang=ru&amp;from=rss&amp;wan=1&amp;stid=Tdc3l8ICXlrJlxALhmoE</link>
-<guid>https://yandex.ru/news/story/Postupilo_soobshhenie_o_minirovanii_Gosudarstvennogo_Kremlevskogo_dvorca--f5472478c56ff2a292537da418ab7a62?lang=ru&amp;from=rss&amp;wan=1&amp;stid=Tdc3l8ICXlrJlxALhmoE</guid>
-<description>Неизвестный сообщил о минировании Государственного Кремлевского дворца в Москве, сообщает источник в правоохранительных органах.</description>
-<pubDate>21 Oct 2020 16:23:43 +0000</pubDate>
-</item>
-<item>
-<title>Частный медцентр в Москве закрыли из-за нарушения мер против коронавируса</title>
-<link>https://yandex.ru/news/story/CHastnyj_medcentr_v_Moskve_zakryli_iz-za_narusheniya_mer_protiv_koronavirusa--297204834c5951b52c619e976b745d71?lang=ru&amp;from=rss&amp;wan=1&amp;stid=oM0dZEsRCOkbpAbDEOjq</link>
-<guid>https://yandex.ru/news/story/CHastnyj_medcentr_v_Moskve_zakryli_iz-za_narusheniya_mer_protiv_koronavirusa--297204834c5951b52c619e976b745d71?lang=ru&amp;from=rss&amp;wan=1&amp;stid=oM0dZEsRCOkbpAbDEOjq</guid>
-<description>Роспотребнадзор закрыл частный медцентр «Клинический госпиталь на Яузе», расположенный в центре Москвы, из-за многочисленных нарушений мер профилактики коронавируса. Такую информацию в среду, 21 октября, распространил столичный оперштаб.</description>
-<pubDate>21 Oct 2020 16:17:35 +0000</pubDate>
 </item>
 </channel>
 </rss>
